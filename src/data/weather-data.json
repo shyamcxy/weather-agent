@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "city": "Jaipur",
+      "temperature": 34.5
+    },
+    {
+      "city": "Jodhpur",
+      "temperature": 43.5
+    },
+    {
+      "city": "Jagatpura",
+      "temperature": 23.5
+    }
+  ]
+}
